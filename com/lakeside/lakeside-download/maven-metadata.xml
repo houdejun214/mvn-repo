@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lakeside</groupId>
+  <artifactId>lakeside-download</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131206092509</lastUpdated>
+  </versioning>
+</metadata>
