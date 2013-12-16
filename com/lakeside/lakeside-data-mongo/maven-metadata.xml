@@ -2,11 +2,10 @@
 <metadata>
   <groupId>com.lakeside</groupId>
   <artifactId>lakeside-data-mongo</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131206092505</lastUpdated>
+    <lastUpdated>20131216023335</lastUpdated>
   </versioning>
 </metadata>
